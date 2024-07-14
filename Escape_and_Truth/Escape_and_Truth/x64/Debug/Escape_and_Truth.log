@@ -1,0 +1,58 @@
+﻿  game1.c
+  game2.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game1.c(456,5): warning C4013: 'stop_sound'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game1.c(505,9): warning C4098: 'one_drawing': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game1.c(390,39): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(67,19): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(346,17): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(375,38): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(397,26): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(407,33): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(457,33): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(339,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.c(371,38): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  game3.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(289,59): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(314,61): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(362,62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(380,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(429,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(447,60): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(494,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(495,64): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(503,62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(504,68): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(824,24): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.c(985,5): warning C4098: 'WaterFire_Game': 'void' 함수에서 값을 반환하고 있습니다.
+  lastgame.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(205,25): warning C4013: 'keyboard'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(206,25): warning C4013: 'print_char_by_char'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(208,25): warning C4013: 'stop_sound0'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(272,5): warning C4098: 'Detective': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(210,25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.c(216,29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game1.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.h(5,9): warning C4005: 'WIDTH': 매크로 재정의
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game2.h(6,9): warning C4005: 'HEIGHT': 매크로 재정의
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\startscreen.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.h(5,9): warning C4005: 'WIDTH': 매크로 재정의
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\game3.h(6,9): warning C4005: 'HEIGHT': 매크로 재정의
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\lastgame.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.h(1,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\main.c(46,2): warning C4013: 'story5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\main.c(48,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  startscreen.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\startscreen.c(184,5): warning C4098: 'startscreen': 'void' 함수에서 값을 반환하고 있습니다.
+  stories.c
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(26,18): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(146,5): warning C4098: 'evidence': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(192,5): warning C4098: 'story1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(207,5): warning C4098: 'story2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(222,5): warning C4098: 'story3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(230,5): warning C4098: 'story4': 'void' 함수에서 값을 반환하고 있습니다.
+C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\Escape_and_Truth\stories.c(245,5): warning C4098: 'story5': 'void' 함수에서 값을 반환하고 있습니다.
+  코드를 생성하고 있습니다...
+  Escape_and_Truth.vcxproj -> C:\성결대학교 강의 및 학습 자료\2학년 1학기\프로그래밍 설계\최종 결과물\Escape_and_Truth\x64\Debug\Escape_and_Truth.exe
